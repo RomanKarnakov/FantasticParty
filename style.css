@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: deepskyblue;
+    padding: 8px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+main h1 {
+    color: darkorange;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+
+}
+
+footer p {
+    background-color: yellowgreen;
+    border: 2px solid yellowgreen;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+.contacts {
+    padding-left: 25px;
+}
+
+nav {
+    background-color: lightgrey;
+    padding: 15px;
+}
+
+nav a {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+    text-align: center;
+    margin: 20px;
+}
+
+.items {
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.h2h2 {
+    color: blue;
+}
+
+.imgdiscount {
+    border: 2px solid lightblue;
+    border-radius: 10px;
+}
+
+.contactshref {
+    text-decoration: none;
+    color: black;
+    border: 4px solid black;
+    padding: 6px;
+}
+
